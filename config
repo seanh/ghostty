@@ -1,0 +1,12 @@
+command = /opt/homebrew/bin/fish
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+window-step-resize = true
+window-width = 80
+window-height = 24
+window-padding-x = 0
+window-padding-y = 0
+font-feature = -calt
+minimum-contrast = 3
+font-size = 20
