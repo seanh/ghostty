@@ -9,4 +9,6 @@ window-padding-x = 0
 window-padding-y = 0
 font-feature = -calt
 minimum-contrast = 3
-font-size = 20
+font-size = 18
+macos-titlebar-style = tabs
+background-opacity = 0.99
