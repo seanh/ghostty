@@ -22,5 +22,7 @@ keybind = shift+page_down=scroll_page_down
 
 keybind = control+page_up=previous_tab
 keybind = control+page_down=next_tab
+keybind = shift+control+page_up=move_tab:-1
+keybind = shift+control+page_down=move_tab:1
 
 theme = light:GitHub-Light-Colorblind,dark:GitHub-Dark-Colorblind
