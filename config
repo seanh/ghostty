@@ -2,13 +2,22 @@ command = /opt/homebrew/bin/fish
 cursor-style = block
 cursor-style-blink = false
 shell-integration-features = no-cursor
-window-step-resize = true
 window-width = 80
 window-height = 24
 window-padding-x = 0
 window-padding-y = 0
+
+window-padding-balance = true
+window-step-resize = false
+
 font-feature = -calt
 minimum-contrast = 3
-font-size = 18
-macos-titlebar-style = tabs
-background-opacity = 0.99
+font-size = 14
+macos-titlebar-style = transparent
+macos-titlebar-proxy-icon = hidden
+background-opacity = 1
+
+keybind = shift+page_up=scroll_page_up
+keybind = shift+page_down=scroll_page_down
+
+theme = light:GitHub-Light-Colorblind,dark:GitHub-Dark-Colorblind
