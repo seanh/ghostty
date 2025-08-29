@@ -25,4 +25,20 @@ keybind = control+page_down=next_tab
 keybind = shift+control+page_up=move_tab:-1
 keybind = shift+control+page_down=move_tab:1
 
-theme = light:GitHub-Light-Colorblind,dark:GitHub-Dark-Colorblind
+# The Dell U2723QE 4K monitor that I currently use with my iMac has screen
+# reflection problems in my office so I can't just use Ghostty's default theme,
+# I have to use a light theme which means until Ghostty ships a default light
+# theme I need to choose my own theme.
+# 
+# I tested many of Ghostty's light themes with the default Vim theme with
+# `set background=light` and checked for contrast issues including with the
+# cursor and with search results.
+#
+# Alabaster seems best and its slightly off-white background colour is easier
+# on the eyes than pure white. The default fishshell theme also seems to work
+# fine with Alabaster.
+#
+# Other potentially usable light themes were:
+# Tomorrow, primary, Night Owlish Light, iTerm2 Tango Light, Havn Daggry, 
+# flexoki-light, dawnfox, Builtin Tango Light, Apple System Colors Light.
+theme = Alabaster
