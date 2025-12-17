@@ -1,30 +1,26 @@
+background-opacity = 1
 command = /opt/homebrew/bin/fish
 cursor-style = block
 cursor-style-blink = false
+font-feature = -calt
+font-size = 14
+keybind = control+page_down=next_tab
+keybind = control+page_up=previous_tab
+keybind = shift+control+page_down=move_tab:1
+keybind = shift+control+page_up=move_tab:-1
+keybind = shift+page_down=scroll_page_down
+keybind = shift+page_up=scroll_page_up
+macos-option-as-alt = left
+macos-titlebar-proxy-icon = hidden
+macos-titlebar-style = transparent
+minimum-contrast = 3
 shell-integration-features = no-cursor
-window-width = 80
 window-height = 24
+window-padding-balance = true
 window-padding-x = 0
 window-padding-y = 0
-macos-option-as-alt = left
-
-window-padding-balance = true
 window-step-resize = false
-
-font-feature = -calt
-minimum-contrast = 3
-font-size = 14
-macos-titlebar-style = transparent
-macos-titlebar-proxy-icon = hidden
-background-opacity = 1
-
-keybind = shift+page_up=scroll_page_up
-keybind = shift+page_down=scroll_page_down
-
-keybind = control+page_up=previous_tab
-keybind = control+page_down=next_tab
-keybind = shift+control+page_up=move_tab:-1
-keybind = shift+control+page_down=move_tab:1
+window-width = 80
 
 # The Dell U2723QE 4K monitor that I currently use with my iMac has screen
 # reflection problems in my office so I can't just use Ghostty's default theme,
