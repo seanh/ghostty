@@ -6,6 +6,7 @@ window-width = 80
 window-height = 24
 window-padding-x = 0
 window-padding-y = 0
+macos-option-as-alt = left
 
 window-padding-balance = true
 window-step-resize = false
