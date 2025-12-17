@@ -12,7 +12,7 @@ keybind = shift+page_down=scroll_page_down
 keybind = shift+page_up=scroll_page_up
 macos-option-as-alt = left
 macos-titlebar-proxy-icon = hidden
-macos-titlebar-style = transparent
+macos-titlebar-style = native
 minimum-contrast = 3
 shell-integration-features = no-cursor
 window-height = 24
