@@ -11,7 +11,7 @@ keybind = shift+control+page_up=move_tab:-1
 keybind = shift+page_down=scroll_page_down
 keybind = shift+page_up=scroll_page_up
 macos-option-as-alt = left
-macos-titlebar-proxy-icon = hidden
+macos-titlebar-proxy-icon = visible
 macos-titlebar-style = native
 minimum-contrast = 3
 shell-integration-features = no-cursor
