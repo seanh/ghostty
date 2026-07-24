@@ -18,7 +18,7 @@ keybind = shift+page_up=scroll_page_up
 macos-option-as-alt = left
 macos-titlebar-proxy-icon = hidden
 macos-titlebar-style = tabs
-shell-integration-features = no-cursor
+shell-integration-features = no-cursor,sudo,title,ssh-env,ssh-terminfo,path
 window-padding-balance = true
 window-step-resize = true
 window-height = 24
