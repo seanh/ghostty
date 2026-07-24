@@ -2,7 +2,8 @@ command = /opt/homebrew/bin/fish
 cursor-style = block
 cursor-style-blink = false
 font-feature = -calt
-font-size = 14
+font-size = 18
+
 keybind = control+page_down=next_tab
 keybind = control+page_up=previous_tab
 keybind = shift+control+page_down=move_tab:1
