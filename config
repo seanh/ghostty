@@ -14,11 +14,9 @@ macos-option-as-alt = left
 macos-titlebar-proxy-icon = hidden
 macos-titlebar-style = tabs
 shell-integration-features = no-cursor
-window-height = 24
 window-padding-balance = true
-window-padding-x = 0
-window-padding-y = 0
-window-step-resize = false
+window-step-resize = true
+window-height = 24
 window-width = 80
 
 # The Dell U2723QE 4K monitor that I currently use with my iMac has screen
