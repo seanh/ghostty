@@ -11,6 +11,8 @@ mouse-hide-while-typing = true
 
 keybind = control+page_down=next_tab
 keybind = control+page_up=previous_tab
+keybind = super+j=goto_split:previous
+keybind = super+k=goto_split:next
 keybind = shift+control+page_down=move_tab:1
 keybind = shift+control+page_up=move_tab:-1
 keybind = shift+page_down=scroll_page_down
