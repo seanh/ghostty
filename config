@@ -5,7 +5,7 @@ font-feature = -calt
 font-size = 18
 working-directory = home
 window-inherit-working-directory = false
-tab-inherit-working-directory = false
+tab-inherit-working-directory = true
 split-inherit-working-directory = true
 mouse-hide-while-typing = true
 
